@@ -1,6 +1,4 @@
-# [Hydraulic calculator](https://userr23.github.io/hydrocalc.github.io/)
-
-## Viscosity Calculation
+# [Viscosity calculator](https://userr23.github.io/viscosity/)
 
 This application allow to solve the following tasks:  
 * Viscosity-temperature extrapolation for liquids and gases
