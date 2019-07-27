@@ -1,5 +1,7 @@
 # [Viscosity calculator](https://userr23.github.io/viscosity/)
 
+This is a raw and incomplete version of viscosity calculator. 
+
 This application allow to solve the following tasks:  
 * Viscosity-temperature extrapolation for liquids and gases
 * Plotting viscosity-temperature charts
